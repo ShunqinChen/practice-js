@@ -1,5 +1,6 @@
 {
   "devDependencies": {
-    "eslint": "^6.2.2"
+    "eslint": "^6.2.2",
+    "vue": "^2.6.10"
   }
 }
