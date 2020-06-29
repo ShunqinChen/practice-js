@@ -1,6 +1,19 @@
 {
-  "devDependencies": {
-    "eslint": "^6.2.2",
-    "vue": "^2.6.10"
-  }
+  "name": "practice-js",
+  "version": "1.0.0",
+  "description": "ES 6, ES 7 Practice",
+  "main": "server.js",
+  "scripts": {
+    "build": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShunqinChen/practice-js.git"
+  },
+  "author": "Kent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShunqinChen/practice-js/issues"
+  },
+  "homepage": "https://github.com/ShunqinChen/practice-js#readme"
 }
