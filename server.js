@@ -1,7 +1,6 @@
 const http = require('http')
 
-const main = require('./src/practice/main')
-main.forIn()
+require('./src/practice/main').main()
 
 const server = http.createServer((req, res) => {
 
